@@ -1,10 +1,15 @@
 {
   "domainUrl":"",
-  "updateUrl":"http://bcdown.xgveg.com",
+  "updateUrl":"http://appdown.zfpai.com/baichuan_download/",
   "branches":[
     {
       "code":"1000",
       "version":"1.0.0",
+      "status":"release"
+    },
+    {
+      "code":"1002",
+      "version":"1.0.2",
       "status":"release"
     }
   ]
