@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.zfpai.com/baichuan_download/",
   "branches":[
     {
-      "code":"1000",
-      "version":"1.0.0",
+      "code":"1001",
+      "version":"1.0.1",
       "status":"release"
     },
       {
-      "code":"1001",
-      "version":"1.0.1",
+      "code":"1002",
+      "version":"1.0.2",
       "status":"release"
     }
   ]
