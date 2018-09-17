@@ -11,6 +11,11 @@
       "code":"1003",
       "version":"1.0.3",
       "status":"release"
+    },
+    {
+      "code":"1004",
+      "version":"1.0.4",
+      "status":"release"
     }
   ]
 }
