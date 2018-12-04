@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.1016wan.com/baichuan_download/",
   "branches":[
     {
-      "code":"1001",
-      "version":"1.0.1",
+      "code":"1003",
+      "version":"1.0.3",
       "status":"release"
     },
       {
-      "code":"1003",
-      "version":"1.0.3",
+      "code":"1004",
+      "version":"1.0.4",
       "status":"release"
     }
   ]
