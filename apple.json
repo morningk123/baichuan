@@ -26,6 +26,11 @@
       "code":"1006",
       "version":"1.0.6",
       "status":"release"
+    },
+    {
+      "code":"1007",
+      "version":"1.0.7",
+      "status":"release"
     }
   ]
 }
